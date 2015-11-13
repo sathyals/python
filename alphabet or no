@@ -1,0 +1,7 @@
+s = 'sathya'
+if s.isdigit():
+    print "Number"
+else:
+    print "Alphabet"
+    
+    #by sathya
